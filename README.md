@@ -11,6 +11,7 @@ Conta com funcionalidades de:
 • Marcação de pontos no mapa com Flutter Map (OpenStreetMap)
 
 • Tema escuro/claro
+
 • Filtragem em tempo real
 
 • Favoritos (em memória)
@@ -18,21 +19,21 @@ Conta com funcionalidades de:
 • Interface intuitiva e moderna
 
 ## Funcionalidades:
-Marcar local manualmente tocando no mapa
+• Marcar local manualmente tocando no mapa
 
-Buscar país, cidade ou estado por texto (usando Nominatim)
+• Buscar país, cidade ou estado por texto (usando Nominatim)
 
-Obter endereço via reverse geocoding
+• Obter endereço via reverse geocoding
 
-Favoritar viagens
+• Favoritar viagens
 
-Alternar tema claro/escuro
+• Alternar tema claro/escuro
 
-Filtro por nome, cidade, estado ou país
+• Filtro por nome, cidade, estado ou país
 
-Deletar viagens
+• Deletar viagens
 
-Ver localização atual no mapa
+• Ver localização atual no mapa
 
 ## Tecnologias Utilizadas:
 
