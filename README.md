@@ -78,7 +78,7 @@ Abra android/app/src/main/AndroidManifest.xml e adicione:
 
     flutter run
 
-###Web
+### Web
 Compile para web:
 
 
