@@ -11,7 +11,6 @@ Conta com funcionalidades de:
 • Marcação de pontos no mapa com Flutter Map (OpenStreetMap)
 
 • Tema escuro/claro
-
 • Filtragem em tempo real
 
 • Favoritos (em memória)
