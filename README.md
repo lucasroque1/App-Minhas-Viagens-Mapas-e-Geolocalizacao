@@ -109,7 +109,7 @@ Ou suba a pasta build/web para Netlify, GitHub Pages ou Vercel.
 
 ## Video:
 
-
+https://github.com/user-attachments/assets/be6d2ff6-a9ca-4c4e-9efb-1261ccee2700
 
  ## Link para testar a versão web:
 
