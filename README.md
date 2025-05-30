@@ -93,19 +93,19 @@ Ou suba a pasta build/web para Netlify, GitHub Pages ou Vercel.
 
 ## Testes Visuais:
 
-Ao iniciar o app, a splash screen é exibida
+• Ao iniciar o app, a splash screen é exibida
 
-Clique no botão "+" para abrir o mapa
+• Clique no botão "+" para abrir o mapa
 
-Toque no mapa ou busque um local por texto
+• Toque no mapa ou busque um local por texto
 
-Clique em "Salvar local" ou no botão de check (✔️)
+• Clique em "Salvar local" ou no botão de check (✔️)
 
-O local será adicionado à lista com nome, endereço e coordenadas
+• O local será adicionado à lista com nome, endereço e coordenadas
 
-Use a barra de busca para filtrar
+• Use a barra de busca para filtrar
 
-Clique na estrela para favoritar
+• Clique na estrela para favoritar
 
 
  ## Link para testar a versão web:
