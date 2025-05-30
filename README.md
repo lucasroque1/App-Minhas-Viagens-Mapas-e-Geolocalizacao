@@ -37,17 +37,17 @@ Conta com funcionalidades de:
 
 ## Tecnologias Utilizadas:
 
-Flutter:	Para o framework de interface
+• Flutter:	Para o framework de interface
 
-Dart:	Linguagem principal do app
+• Dart:	Linguagem principal do app
 
-Geolocator:	Obtenção de localização do dispositivo
+• Geolocator:	Obtenção de localização do dispositivo
 
-http:	Requisições REST com API
+• http:	Requisições REST com API
 
-flutter_map: 	Exibição do mapa com OpenStreetMap
+• flutter_map: 	Exibição do mapa com OpenStreetMap
 
-latlong2:	Suporte a coordenadas geográficas
+• latlong2:	Suporte a coordenadas geográficas
 
 ## Dependências:
 Adicione ao seu pubspec.yaml:
