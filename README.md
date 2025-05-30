@@ -4,19 +4,19 @@ Aplicativo Flutter que permite ao usuário marcar locais no mapa, buscar regiõe
 
 Conta com funcionalidades de:
 
-•Geolocalização
+• Geolocalização
 
 • Busca textual por cidade, estado e país
 
-Marcação de pontos no mapa com Flutter Map (OpenStreetMap)
+• Marcação de pontos no mapa com Flutter Map (OpenStreetMap)
 
-Tema escuro/claro
+• Tema escuro/claro
 
-Filtragem em tempo real
+• Filtragem em tempo real
 
-Favoritos (em memória)
+• Favoritos (em memória)
 
-Interface intuitiva e moderna
+• Interface intuitiva e moderna
 
 ## Funcionalidades:
 Marcar local manualmente tocando no mapa
