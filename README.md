@@ -107,6 +107,9 @@ Ou suba a pasta build/web para Netlify, GitHub Pages ou Vercel.
 
 • Clique na estrela para favoritar
 
+## Video:
+
+
 
  ## Link para testar a versão web:
 
