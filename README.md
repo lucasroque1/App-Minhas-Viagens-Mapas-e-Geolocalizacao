@@ -107,7 +107,7 @@ Ou suba a pasta build/web para Netlify, GitHub Pages ou Vercel.
 
 • Clique na estrela para favoritar
 
-## Video:
+## Video da utilização do app:
 
 https://github.com/user-attachments/assets/be6d2ff6-a9ca-4c4e-9efb-1261ccee2700
 
