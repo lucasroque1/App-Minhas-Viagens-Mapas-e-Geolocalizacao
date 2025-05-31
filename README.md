@@ -2,7 +2,7 @@
 
 Aplicativo Flutter que permite ao usuário marcar locais no mapa, buscar regiões por texto, favoritar viagens, visualizar informações detalhadas de localização (cidade, estado, país, CEP, etc.), e salvar esses locais manualmente.
 
-Conta com funcionalidades de:
+## Funcionalidades:
 
 • Geolocalização
 
